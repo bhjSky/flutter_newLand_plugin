@@ -1,0 +1,5 @@
+<resources>
+    <string name="ACTION_SWIPE">android.intent.action.NEWLAND.PAYMENT</string>
+    <string name="URI_PAYMENT">payment://com.newland.pospp/payment?channelId=%1$s&amp;outOrderNo=%2$s&amp;outOrderTime=%3$s&amp;amount=%4$d</string>
+    <string name="URI_RECEDE">payment://com.newland.pospp/paymentVoid?oriVoucherNo=%1$s</string>
+</resources>
